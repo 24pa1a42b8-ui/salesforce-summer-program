@@ -1,0 +1,8 @@
+   HOSPITAL SYSTEM
+
+
+--Account = Hospital
+--Contact = Patient
+--Lead = Person asking for appointment
+--Opportunity = Chance of patient taking treatment
+ 

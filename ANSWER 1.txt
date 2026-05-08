@@ -1,0 +1,11 @@
+  1) WHAT IS CRM 
+
+  A)CRM means Customer Relationship Management.
+   It helps companies manage customers and sales.
+ 
+  2)WHY COMPAINES USE SALESFORCE
+  A)Companies use Salesforce to manage customer data, sales, and business work easily.
+
+  3)ACCOUNT--Account means company or organization
+  4)CONTACT--Contact means person from company.
+  5)OPPORTUNITY-Opportunity means possible business dea
